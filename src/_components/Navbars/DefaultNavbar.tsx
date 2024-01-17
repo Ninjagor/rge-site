@@ -37,7 +37,7 @@ const DefaultNavbar = () => {
                       <Link href="https://rge-docs.vercel.app/" className='py-1'>Docs</Link>
                     </li>
                     <li className="opacity-50 hover:opacity-100 text-sm h-full py-1 cursor-pointer">
-                      <Link href="#" className='py-1'>Showcase</Link>
+                      <Link href="https://rge-editor.vercel.app" className='py-1'>Online Playgrouns</Link>
                     </li>
                     <li className="opacity-50 hover:opacity-100 text-sm h-full py-1 cursor-pointer">
                       <Link href="#" className='py-3'>Blog</Link>
